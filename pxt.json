@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "optofarm_neopixels.ts"
+        "optofarm_neopixels.ts",
+        "sendBuffer.asm"
     ],
     "testFiles": [
         "test.ts"
