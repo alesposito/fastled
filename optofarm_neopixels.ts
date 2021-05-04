@@ -44,7 +44,9 @@ namespace neopixel {
 
 
     //% shim=sendBufferAsm
-    export function sendBuffer(buf: Buffer, pin: DigitalPin) {
+    export function sendBufferAsmWS2812B(buf: Buffer, pin: DigitalPin) {
+    }
+    export function sendBufferAsmWS2811(buf: Buffer, pin: DigitalPin) {
     }
 
     
