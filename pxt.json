@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "optofarm_neopixels.ts",
-        "sendBuffer.asm"
+        "WS2811.asm",
+        "WS2812B.asm"
     ],
     "testFiles": [
         "test.ts"
