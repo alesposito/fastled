@@ -12,7 +12,8 @@
         "README.md",
         "optofarm_neopixels.ts",
         "WS2811.asm",
-        "WS2812B.asm"
+        "WS2812B.asm",
+        "optofarm.ts"
     ],
     "testFiles": [
         "test.ts"
